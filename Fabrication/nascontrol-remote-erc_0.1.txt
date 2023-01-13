@@ -1,0 +1,9 @@
+ERC report (Fri Jan 13 16:16:06 2023, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /Serial/
+
+***** Sheet /USB/
+
+ ** ERC messages: 0  Errors 0  Warnings 0
