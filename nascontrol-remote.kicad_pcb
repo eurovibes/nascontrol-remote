@@ -348,7 +348,7 @@
       (net 8 "Net-(FB301-Pad1)") (pinfunction "Shield") (pintype "passive") (tstamp 9fbabfd5-5316-4dcb-8d99-3c53b9c69880))
     (pad "5" thru_hole circle locked (at 10.07 2.71 270) (size 3 3) (drill 2.3) (layers *.Cu *.Mask)
       (net 8 "Net-(FB301-Pad1)") (pinfunction "Shield") (pintype "passive") (tstamp f89b1d5e-28c8-498c-b199-7acbd8607540))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Molex_67643_Horizontal.wrl"
+    (model "${KIPRJMOD}/3D-model/USB_A_Molex_67643_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2114,7 +2114,7 @@
       (net 9 "Net-(FB302-Pad1)") (pinfunction "Shield") (pintype "passive") (tstamp 1f70d207-e63d-4692-be1f-5b6fa8599d57))
     (pad "5" thru_hole circle locked (at 10.07 2.71 270) (size 3 3) (drill 2.3) (layers *.Cu *.Mask)
       (net 9 "Net-(FB302-Pad1)") (pinfunction "Shield") (pintype "passive") (tstamp ea3cd08e-2d6a-4ba3-9c39-87a3d44d2015))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Molex_67643_Horizontal.wrl"
+    (model "${KIPRJMOD}/3D-model/USB_A_Molex_67643_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
