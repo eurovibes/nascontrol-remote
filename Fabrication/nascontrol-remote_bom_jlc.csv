@@ -1,5 +1,7 @@
 "Comment","Designator","Footprint","LCSC Part #"
 "1µ","C101","C_1206_3216Metric","C1848"
+"Control","J103","RJ45_Amphenol_RJHSE538X",""
+"Serial","J101,J102,J104","PinHeader_2x05_P2.54mm_Vertical",""
 "1k","R101,R102,R103,R104,R105,R106,R107,R108,R110,R111","R_0402_1005Metric","C11702"
 "1M","R109","R_0805_2012Metric","C17514"
 "EL817","U101,U102,U103,U104","SMDIP-4_W7.62mm","C106900"
