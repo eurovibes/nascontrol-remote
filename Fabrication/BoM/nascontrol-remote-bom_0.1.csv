@@ -1,19 +1,11 @@
 Row,References,Part,Value,P/N,Manufacture,Source,Supplier P/N,Link,Footprint,Description,Quantity Per PCB
-1,C201 C202 C203 C204 C205 C206 C207,C,100 nF,CL05B104KB54PNC,Samsung Electro-Mechanics,,,https://jlcpcb.com/partdetail/291005-CL05B104KB54PNC/C307331,C_0402_1005Metric,50V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,7
-2,C101,C,1 µF,CL31B105KBHNNNE,Samsung Electro-Mechanics,,,https://jlcpcb.com/partdetail/2200-CL31B105KBHNNNE/C1848,C_1206_3216Metric,50V 1uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,1
-3,D201,NUP2105L,NUP2105L,NUP2105LT1G,TECH PUBLICTECH PUBLIC,,,https://jlcpcb.com/partdetail/TechPublic-NUP2105LT1G/C2890118,SOT-23,SOT-23 ESD Protection Devices ROHS,1
-4,H101,MountingHole,~,N/A,N/A,,,,MountingHole_3.2mm_M3,Mounting Hole M3,1
-5,H102,MountingHole_Pad,~,N/A,N/A,,,,MountingHole_3.2mm_M3_Pad,Mounting Hole M3,1
-6,J103,RJ45_LED_Shielded,Control,RJHSE-538B,Amphenol Communications Solutions,,,https://www.tme.eu/de/details/rjhse538b/rj-steckverbinder/amphenol-communications-solutions/rjhse-538b/,RJ45_Amphenol_RJHSE538X,"Buchse; RJ45; Kat: 5; abgeschirmt,mit LED; System: 8p8c; THT",1
-7,J101 J102 J104 J301,Conn_02x05_Odd_Even,Serial,DS1021-2*5SF11-B,CONNFLY,,,https://www.tme.eu/de/details/zl202-10g/stiftleisten-und-buchsen/connfly/ds1021-2-5sf11-b/,PinHeader_2x05_P2.54mm_Vertical,"Stiftleiste; Stift; männlich; PIN: 10; gerade; 2,54mm; THT; 2x5; L3mm",4
-8,J302 J303,USB_A,USB_A,676430910,MOLEX,,,https://www.tme.eu/de/details/mx-67643-0910/usb-und-ieee1394-steckverbinder/molex/676430910/,USB_A_Molex_67643_Horizontal,Buchse; USB A; auf PCB; THT; PIN: 4; 90°-Winkel; abgeschirmt,2
-9,R201,R,120 Ω,1206W4F1200T5E,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/18597-1206W4F1200T5E/C17909,R_1206_3216Metric,250mW Thick Film Resistors 200V ±100ppm/℃ ±1% -55℃~+155℃ 120Ω 1206 Chip Resistor - Surface Mount ROHS,1
-10,R101 R102 R103 R104 R105 R106 R107 R108 R110 R111,R,1 kΩ,0402WGF1001TCE,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702,R_0402_1005Metric,62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS,10
-11,R109,R,1 MΩ,0805W8F1004T5E,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/18202-0805W8F1004T5E/C17514,R_0805_2012Metric,125mW Thick Film Resistors 150V ±100ppm/℃ ±1% -55℃~+155℃ 1MΩ 0805 Chip Resistor - Surface Mount ROHS,1
-12,U101 U102 U103 U104,EL817,EL817,EL817S1(C)(TU)-F,Everlight Elec,,,https://jlcpcb.com/partdetail/EverlightElec-EL817S1_C_TU_F/C106900,SMDIP-4_W7.62mm,"35V 5000V -55℃~+110℃ 50mA 18us@2mA,100Ω 18us@2mA,100Ω 0.1V@1mA,20mA 1 6V 1.2V Phototransistor DC SMD-4 Optocouplers - Phototransistor Output ROHS",4
-13,U202,ISO3082DW,SIT3485ISO,SIT3485ISO,SIT,,,https://jlcpcb.com/partdetail/Sit-SIT3485ISO/C2974613,SOIC-16W_7.5x10.3mm_P1.27mm,SOIC-16 RS-485/RS-422 ICs ROHS,1
-14,U201,ICL3232,SP3232,SP3232EEY-L/TR,MaxLinear,,,https://jlcpcb.com/partdetail/Maxlinear-SP3232EEY_LTR/C13482,TSSOP-16_4.4x5mm_P0.65mm,235Kbps 3V~5.5V transceiver 2/2 TSSOP-16 RS232 ICs ROHS,1
-15,U301 U302,USBLC6-2SC6,USBLC6-2SC6,USBLC6-2SC6,TECH PUBLIC,,,https://jlcpcb.com/partdetail/TechPublic-USBLC62SC6/C2827654,SOT-23-6,SOT-23-6 ESD Protection Devices ROHS,2
+1,C101,C,1 µF,CL31B105KBHNNNE,Samsung Electro-Mechanics,,,https://jlcpcb.com/partdetail/2200-CL31B105KBHNNNE/C1848,C_1206_3216Metric,50V 1uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,1
+2,H101 H102,MountingHole_Pad,~,N/A,N/A,,,,MountingHole_3.2mm_M3_Pad,Mounting Hole M3,2
+3,J103,RJ45_LED_Shielded,Control,RJHSE-538B,Amphenol Communications Solutions,,,https://www.tme.eu/de/details/rjhse538b/rj-steckverbinder/amphenol-communications-solutions/rjhse-538b/,RJ45_Amphenol_RJHSE538X,"Buchse; RJ45; Kat: 5; abgeschirmt,mit LED; System: 8p8c; THT",1
+4,J101 J102 J104,Conn_02x05_Odd_Even,Serial,DS1021-2*5SF11-B,CONNFLY,,,https://www.tme.eu/de/details/zl202-10g/stiftleisten-und-buchsen/connfly/ds1021-2-5sf11-b/,PinHeader_2x05_P2.54mm_Vertical,"Stiftleiste; Stift; männlich; PIN: 10; gerade; 2,54mm; THT; 2x5; L3mm",3
+5,R101 R102 R103 R104 R105 R106 R107 R108 R110 R111,R,1 kΩ,0402WGF1001TCE,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702,R_0402_1005Metric,62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS,10
+6,R109,R,1 MΩ,0805W8F1004T5E,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/18202-0805W8F1004T5E/C17514,R_0805_2012Metric,125mW Thick Film Resistors 150V ±100ppm/℃ ±1% -55℃~+155℃ 1MΩ 0805 Chip Resistor - Surface Mount ROHS,1
+7,U101 U102 U103 U104,EL817,EL817,EL817S1(C)(TU)-F,Everlight Elec,,,https://jlcpcb.com/partdetail/EverlightElec-EL817S1_C_TU_F/C106900,SMDIP-4_W7.62mm,"35V 5000V -55℃~+110℃ 50mA 18us@2mA,100Ω 18us@2mA,100Ω 0.1V@1mA,20mA 1 6V 1.2V Phototransistor DC SMD-4 Optocouplers - Phototransistor Output ROHS",4
 
 
 
@@ -24,10 +16,10 @@ Schematic:,nascontrol-remote
 Variant:,default
 Revision:,0.1
 Date:,2023-01-11
-KiCad Version:,6.0.5+dfsg-1~bpo11+1
+KiCad Version:,7.0.9-7.0.9~ubuntu23.04.1
 Statistics:
-Component Groups:,15
-Component Count:,38
-Fitted Components:,38
+Component Groups:,7
+Component Count:,22
+Fitted Components:,22
 Number of PCBs:,1
-Total Components:,38
+Total Components:,22

@@ -1,9 +1,159 @@
-ERC report (Sat Jan 21 14:41:59 2023, Encoding UTF8)
+ERC report (Sat Jan 20 18:51:30 2024, Encoding UTF8)
 
 ***** Sheet /
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(135.8900 mm, 99.0600 mm): Symbol #PWR0109 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(118.1100 mm, 99.0600 mm): Symbol #PWR0108 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(118.1100 mm, 63.5000 mm): Symbol #PWR0104 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(68.5800 mm, 76.2000 mm): Symbol #PWR0105 [+5V]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(68.5800 mm, 38.1000 mm): Symbol #PWR0101 [+5V]
+[lib_symbol_issues]: Symbol 'GNDPWR' has been modified in library 'power'
+    ; Severity: warning
+    @(48.2600 mm, 58.4200 mm): Symbol #PWR0102 [GNDPWR]
+[lib_symbol_issues]: Symbol 'GNDPWR' has been modified in library 'power'
+    ; Severity: warning
+    @(48.2600 mm, 96.5200 mm): Symbol #PWR0106 [GNDPWR]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(68.5800 mm, 58.4200 mm): Symbol #PWR0103 [GND]
+[lib_symbol_issues]: Symbol 'GNDPWR' has been modified in library 'power'
+    ; Severity: warning
+    @(182.8800 mm, 124.4600 mm): Symbol #PWR0112 [GNDPWR]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(187.9600 mm, 142.2400 mm): Symbol #PWR0117 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(198.1200 mm, 142.2400 mm): Symbol #PWR0118 [GND]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; Severity: warning
+    @(215.9000 mm, 116.8400 mm): Symbol #FLG0102 [PWR_FLAG]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; Severity: warning
+    @(215.9000 mm, 109.2200 mm): Symbol #FLG0101 [PWR_FLAG]
+[lib_symbol_issues]: Symbol 'GNDPWR' has been modified in library 'power'
+    ; Severity: warning
+    @(210.8200 mm, 124.4600 mm): Symbol #PWR0113 [GNDPWR]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(254.0000 mm, 142.2400 mm): Symbol #PWR0119 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(241.3000 mm, 142.2400 mm): Symbol #PWR0122 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; Severity: warning
+    @(213.3600 mm, 101.6000 mm): Symbol #PWR0110 [+3V3]
+[lib_symbol_issues]: Symbol 'RJ45_LED_Shielded' has been modified in library 'Connector'
+    ; Severity: warning
+    @(198.1200 mm, 114.3000 mm): Symbol J103 [RJ45_LED_Shielded]
+[lib_symbol_issues]: Symbol 'GNDPWR' has been modified in library 'power'
+    ; Severity: warning
+    @(68.5800 mm, 172.7200 mm): Symbol #PWR0121 [GNDPWR]
+[lib_symbol_issues]: Symbol 'GNDPWR' has been modified in library 'power'
+    ; Severity: warning
+    @(68.5800 mm, 134.6200 mm): Symbol #PWR0114 [GNDPWR]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; Severity: warning
+    @(68.5800 mm, 152.4000 mm): Symbol #PWR0120 [+3V3]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(118.1100 mm, 137.1600 mm): Symbol #PWR0115 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; Severity: warning
+    @(68.5800 mm, 114.3000 mm): Symbol #PWR0111 [+3V3]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(68.5800 mm, 96.5200 mm): Symbol #PWR0107 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(135.8900 mm, 137.1600 mm): Symbol #PWR0116 [GND]
 
 ***** Sheet /Serial/
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(152.4000 mm, 55.8800 mm): Symbol #PWR0201 [+5V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(152.4000 mm, 121.9200 mm): Symbol #PWR0207 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(129.5400 mm, 109.2200 mm): Symbol #PWR0205 [GND]
+[lib_symbol_issues]: Symbol 'GNDPWR' has been modified in library 'power'
+    ; Severity: warning
+    @(41.9100 mm, 111.7600 mm): Symbol #PWR0206 [GNDPWR]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(193.0400 mm, 88.9000 mm): Symbol #PWR0204 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(228.6000 mm, 128.2700 mm): Symbol #PWR0209 [+5V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(228.6000 mm, 140.9700 mm): Symbol #PWR0214 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(241.3000 mm, 140.9700 mm): Symbol #PWR0215 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(241.3000 mm, 128.2700 mm): Symbol #PWR0210 [+5V]
+[lib_symbol_issues]: Symbol 'GNDPWR' has been modified in library 'power'
+    ; Severity: warning
+    @(215.9000 mm, 140.9700 mm): Symbol #PWR0213 [GNDPWR]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; Severity: warning
+    @(215.9000 mm, 128.2700 mm): Symbol #PWR0208 [+3V3]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(101.6000 mm, 88.9000 mm): Symbol #PWR0203 [+5V]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; Severity: warning
+    @(86.3600 mm, 88.9000 mm): Symbol #PWR0202 [+3V3]
+[lib_symbol_issues]: Symbol 'GNDPWR' has been modified in library 'power'
+    ; Severity: warning
+    @(86.3600 mm, 132.0800 mm): Symbol #PWR0211 [GNDPWR]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(101.6000 mm, 132.0800 mm): Symbol #PWR0212 [GND]
 
 ***** Sheet /USB/
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(124.4600 mm, 63.5000 mm): Symbol #PWR0301 [GND]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; Severity: warning
+    @(71.1200 mm, 101.6000 mm): Symbol #FLG0303 [PWR_FLAG]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(68.5800 mm, 104.1400 mm): Symbol #PWR0306 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(88.9000 mm, 86.3600 mm): Symbol #PWR0304 [GND]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; Severity: warning
+    @(78.7400 mm, 66.0400 mm): Symbol #FLG0301 [PWR_FLAG]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(142.2400 mm, 63.5000 mm): Symbol #PWR0302 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(177.8000 mm, 86.3600 mm): Symbol #PWR0305 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(187.9600 mm, 66.0400 mm): Symbol #PWR0303 [+5V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(198.1200 mm, 104.1400 mm): Symbol #PWR0307 [GND]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; Severity: warning
+    @(190.5000 mm, 68.5800 mm): Symbol #FLG0302 [PWR_FLAG]
 
- ** ERC messages: 0  Errors 0  Warnings 0
+ ** ERC messages: 50  Errors 0  Warnings 50
