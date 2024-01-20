@@ -7,7 +7,7 @@ filters:
     type: generic
     include_only:
       - column: 'LCSC#'
-        regex: '^C\d+'
+        regex: '^C.*'
 
 variants:
   - name: rotated
@@ -46,7 +46,6 @@ outputs:
     type: bom
     options:
       output: '%f_%i_jlc.%x'
-      exclude_filter: 'only_jlc_parts'
       ref_separator: ','
       columns:
         - field: Value
